@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3520275940",
+    "project_id": "abrinotes",
+    "storage_bucket": "abrinotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3520275940:android:d1b58f4e6c4a346e1013f1",
+        "android_client_info": {
+          "package_name": "com.example.abrinotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3520275940-ufaoisqoobvgncqsnivlltl131r66fbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTo1Wwp0B4nNiHvcRUWW1eWXysFB0tDWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3520275940-ufaoisqoobvgncqsnivlltl131r66fbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

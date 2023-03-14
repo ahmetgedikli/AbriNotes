@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">arbinotes</string>
+    <string name="all">TODO</string>
+    <string name="name">NOTE TITLE DEFAULT</string>
+    <string name="date">JANUARY 18 2022</string>
+    <string name="title_activity_main">ARBINOTES</string>
+    <string name="subtitle_activity_main">2022</string>
+    <string name="title_activity_add">Add Your Note</string>
+    <string name="title_activity_edit">Edit Your Note</string>
+    <string name="name_form">Note Title</string>
+    <string name="date_form">Date</string>
+    <string name="url_form">Image URL</string>
+    <string name="description_form">Description</string>
+    <string name="save">SAVE</string>
+    <string name="description">WHAT HAPPENED WHEN ARBINOTES TOOK OVER THE WORLD AND MADE MILLIONS OF DOLLARS.</string>
+</resources>
